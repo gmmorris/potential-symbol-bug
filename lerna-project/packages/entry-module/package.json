@@ -9,7 +9,7 @@
   "author": "Gidi Meir Morris <gidi@gidi.io> (http://www.gidi.io)",
   "license": "MIT",
   "dependencies": {
-    "gmmorris-symbol-module": "file:///Users/gidimorris/Development/gmmorris/lerna-symbol-bug/symbol-module",
-    "referenced-module": "file:///Users/gidimorris/Development/gmmorris/lerna-symbol-bug/lerna-project/packages/referenced-module"
+    "gmmorris-symbol-module": "1.0.0",
+    "referenced-module": "1.0.0"
   }
 }

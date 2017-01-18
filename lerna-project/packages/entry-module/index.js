@@ -1,4 +1,4 @@
-const referencesModule = require('../referenced-module');
+const referencesModule = require('referenced-module');
 const paintWithSymbol = require('gmmorris-symbol-module');
 
 const objectToPaintViaReferencedModule = referencesModule.paint({}) 
