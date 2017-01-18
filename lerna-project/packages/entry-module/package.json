@@ -1,0 +1,15 @@
+{
+  "name": "entry-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gidi Meir Morris <gidi@gidi.io> (http://www.gidi.io)",
+  "license": "MIT",
+  "dependencies": {
+    "gmmorris-symbol-module": "file:///Users/gidimorris/Development/gmmorris/lerna-symbol-bug/symbol-module",
+    "referenced-module": "file:///Users/gidimorris/Development/gmmorris/lerna-symbol-bug/lerna-project/packages/referenced-module"
+  }
+}
